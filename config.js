@@ -10,17 +10,17 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "YouTube Music", 
+  activityName: "Komi-San", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/ahkMq8x",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
      {
-      name: "Avinan",
-      password: "pokemon",
-      host: "new-york-node-1.vortexcloud.xyz",
-      port:  9376,
+      name: "Kaze",
+      password: "kazegantenk",
+      host: "192.99.10.133",
+      port:  9894,
       secure: false
     }
   ]
