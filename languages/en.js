@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "Developed by Kaze",
+    footer: "Developed by Kaze | The Komi-San Music v1.0",
     ping: {
       description: "Check the bot latency",
       response: "Pinging...",
@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- Bot Response Time : **{latency}ms**",
         websocketPing: "- WebSocket Ping : **{ping}ms**",
         uptime: "- Uptime : **{uptime}**",
-        footer: "Developed by Kaze"
+        footer: "Developed by Kaze | The Komi-San Music v1.0"
       }
     },
     addsong: {
