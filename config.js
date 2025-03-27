@@ -17,10 +17,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "ChalresNaig Node",
-      password: "NAIGLAVA-dash.techbyte.host",
-      host: "lavahatry4.techbyte.host",
-      port:  3000,
+      name: "lavalink.beban.tech",
+      password: "bytebee_",
+      host: "lavalink.beban.tech",
+      port:  80,
       secure: false
     }
   ]
