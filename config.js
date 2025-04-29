@@ -17,9 +17,9 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "Unknownz",
-      password: "unknownz",
-      host: "https://dsc.gg/ajidevserver",
+      name: "ajidev",
+      password: "https://dsc.gg/ajidevserver",
+      host: "lava-v3.ajieblogs.eu.org",
       port:  443,
       secure: true
     }
