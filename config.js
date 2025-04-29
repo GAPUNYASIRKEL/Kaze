@@ -19,9 +19,9 @@ module.exports = {
      {
       name: "Unknownz",
       password: "unknownz",
-      host: "de1.bot-hosting.net",
-      port:  20773,
-      secure: false
+      host: "https://dsc.gg/ajidevserver",
+      port:  443,
+      secure: true
     }
   ]
 }
